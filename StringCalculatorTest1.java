@@ -1,7 +1,7 @@
 package stringcalculator;
 import java.util.*;
 
-public class StringCalculator {
+public class StringCalculatorTest1 {
 
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
