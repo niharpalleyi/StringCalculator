@@ -2,7 +2,7 @@ package stringcalculator;
 
 import java.util.Scanner;
 
-public class Stringcalc {
+public class StringCalculatorTest3 {
 
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
