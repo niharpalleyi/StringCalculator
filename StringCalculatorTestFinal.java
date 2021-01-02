@@ -4,7 +4,7 @@ import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class StringCalculator2 {
+public class StringCalculatorTestFinal {
 	static String s1;
 	public static void main(String[] args) throws Exception{
 		Scanner sc=new Scanner(System.in);
